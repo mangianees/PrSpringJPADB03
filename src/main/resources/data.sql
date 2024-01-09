@@ -1,0 +1,1 @@
+insert into data_model values(2,'Anees','Mangi');
